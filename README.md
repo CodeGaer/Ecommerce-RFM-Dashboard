@@ -112,11 +112,11 @@ Segments enable:
 
 ### Sales Dashboard
 
-![Sales Dashboard](Dashboard/E-Commerce Sales Dashboard.png)
+![Sales Dashboard](Dashboard/sales_dashboard.png)
 
 ### RFM Segmentation
 
-![RFM Dashboard](Dashboard/Customer Segmentation (RFM).png)
+![RFM Dashboard](Dashboard/rfm_dashboard.png)
 
 ---
 
