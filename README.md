@@ -103,7 +103,7 @@ Segments enable:
 ## 🚀 How to Use
 
 1. Open the SQL file and run in MySQL to reproduce analysis
-2. (Optional) Open `.pbix` in Power BI to explore the dashboard
+2. Open `.pbix` in Power BI to explore the dashboard
 3. Use screenshots below for quick preview
 
 ---
@@ -128,12 +128,6 @@ Segments enable:
 
 ---
 
-## 📌 Notes
-
-* Raw CSV files are not included to keep the repo lightweight
-* Paths in SQL `LOAD DATA INFILE` should be updated locally
-
----
 
 ## 👤 Author
 
